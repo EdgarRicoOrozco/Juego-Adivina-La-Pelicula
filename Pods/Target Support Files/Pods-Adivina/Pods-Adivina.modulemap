@@ -1,0 +1,6 @@
+framework module Pods_Adivina {
+  umbrella header "Pods-Adivina-umbrella.h"
+
+  export *
+  module * { export * }
+}
